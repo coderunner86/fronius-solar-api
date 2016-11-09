@@ -12,5 +12,5 @@ Fronius Solar API docs
 |Code   |Description            |Behaviour  |Remedy |
 |-------|-----------------------|-----------|-------|
 |102    |AC voltage too high    | Short-term interruption while feeding energy into the grid due to over current in the inverter.
-The inverter resumes with its startup routine.          |       |
+|       |                       | The inverter resumes with its startup routine.          |       |
 |103    |AC voltage too low     |           |       |
